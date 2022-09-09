@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Network</string>
+    <string name="input_title">Введите название фильма</string>
+    <string name="input_year">Введите год фильма</string>
+    <string name="choose_movie_type">Выберите тип фильма</string>
+    <string name="search_movie">Поиск фильмов</string>
+    <string name="result_search">Результат поиска</string>
+    <string name="search">Поиск</string>
+    <string name="message_error">Message error</string>
+    <string name="retry">Повторить запрос</string>
+    <string name="no_value_for_search">No value for Search</string>
+    <string name="add_score">Добавить оценку</string>
+    <string name="info_score">Информация об оценке</string>
+    <string name="info_score_text_view">Информация об оценке</string>
+    <string name="source_score">Введите источник оценки</string>
+    <string name="value_score">Введите оценку</string>
+    <string name="add_score_button">Добавить оценку</string>
+    <string name="cancel">Отмена</string>
+</resources>
